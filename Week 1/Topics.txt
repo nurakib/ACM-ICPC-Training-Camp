@@ -1,0 +1,7 @@
+Disscused topics 20-21 july, 2017
+
+1. Hashing
+2. Rabin Karp
+3. KMP
+4. Trie
+5. Suffix Array
