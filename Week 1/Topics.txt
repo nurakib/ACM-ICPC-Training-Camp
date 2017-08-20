@@ -5,3 +5,4 @@ Disscused topics 20-21 july, 2017
 3. KMP
 4. Trie
 5. Suffix Array
+6. Aho–Corasick
