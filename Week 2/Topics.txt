@@ -1,0 +1,9 @@
+Disscused topics 11-12 August, 2017
+
+1. Square Root Decomposition
+2. Segment Tree
+3. Lowest Common Ancestor
+4. Heavy Light Decomposition
+5. Splay Tree
+6. Basic Geometry - Line Segment and Intersect, Dot Product, Cross Product
+7. Convex Hull
